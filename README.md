@@ -1,1 +1,1 @@
-# exercism_java
+# exercism
